@@ -15,3 +15,4 @@ From base repository run:
 ```
 
 ## Output example like generated image.
+![MotoGpGeneralClassification](https://user-images.githubusercontent.com/53972851/166221355-a7cd665b-bcaa-44f4-98b3-abbd6edf8983.png)
