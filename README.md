@@ -14,7 +14,7 @@ Matplotlib used to graph the MotoGp World Championship.
 From base repository run:
 
 ```
-> python .\src\general-world-championship.py
+python .\src\general-world-championship.py
 ```
 
 ## Output example like generated image.
